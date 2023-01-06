@@ -44,9 +44,15 @@
     justify-content: space-around;
 }
 .my-failures .failures h2{
-    Font-size: 40px;
+    font-size: 40px;
     color: #151414;
     font-style: bold;
+    margin-bottom: 24px;
+}
+.my-failures .failures p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
 }
 
 /* failures ends  */
